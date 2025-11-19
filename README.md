@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-README - 02/12/2024
-
 - 🔭 I’m currently working on studies.
 - 🌱 I’m currently learning programmation.
 - 😄 Pronouns: he/him
