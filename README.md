@@ -1,23 +1,11 @@
 ## Hi there 👋
 
-README - 02/12/2024 (DD/MM/YYYY)
+README - 02/12/2024
 
 - 🔭 I’m currently working on studies.
 - 🌱 I’m currently learning programmation.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like lemon pie!
-
-<!--
-**Heyt15/Heyt15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Nacionality: Brazilian
+- 📕 CEFR English level: B1 (last update: 19/11/2025)
+- 🕰️ Time model: DD/MM/YYYY
